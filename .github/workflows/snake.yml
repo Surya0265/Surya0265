@@ -1,14 +1,20 @@
-name: Generate contribution snake
+name: Generate GitHub Contribution Snake
 
 on:
+  # Run every 12 hours
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  # Allow running manually
   workflow_dispatch:
+
+permissions:
+  contents: write   # Important: allows pushing to the output branch
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Generate the snake SVG files
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -19,10 +25,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 2: Push the generated files to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I’m Suryaprakash B, a Pre-final-year BE . CSE (AI&ML) student  from  PSG College of Technology with interests in:<br><br>🌐 Web Development<br>🧩 Problem-Solving<br>🤖 Machine Learning<br>📊 Deep Learning<br>🗣️ Speaking Skills<br><br>I love combining creativity 🎨 with technology 💻 to build innovative solutions. 😊</h3>
+<h3 align="left">Hi 👋! I’m Suryaprakash B, a Pre-final-year BE . CSE (AI&ML) student  from  PSG College of Technology with interests in:<br><br>Web Development<br>Problem-Solving<br> Machine Learning<br>Deep Learning<br>Speaking Skills<br><br>I love combining creativity  with technology  to build innovative solutions.</h3>
 
 ###
 

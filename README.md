@@ -5,9 +5,9 @@ Final-year B.E. Computer Science and Engineering (AI & ML) student at PSG Colleg
 </h3>
 
 <p align="left">
-I am interested in Software Development, Problem Solving, Machine Learning, Deep Learning, and Public Speaking.
+I am interested in Software Development, Problem Solving, Machine Learning, and Deep Learning.
 <br><br>
-I enjoy combining creativity with technology to build innovative and practical solutions.
+I enjoy building scalable applications and intelligent systems that solve practical problems.
 </p>
 
 ###
@@ -15,23 +15,24 @@ I enjoy combining creativity with technology to build innovative and practical s
 <h3 align="left">GitHub Stats</h3>
 
 <div align="center">
+
   <img
     src="https://raw.githubusercontent.com/Surya0265/Surya0265/stats-output/stats.svg"
     height="150"
     alt="Suryaprakash GitHub stats"
   />
 
-<img
- src="https://raw.githubusercontent.com/Surya0265/Surya0265/languages-output/languages.svg"
- height="150"
- alt="Suryaprakash top languages"
-/>
+  <img
+    src="https://raw.githubusercontent.com/Surya0265/Surya0265/languages-output/languages.svg"
+    height="150"
+    alt="Suryaprakash top languages"
+  />
 
 </div>
 
 ###
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Tech Stack</h3>
 
 <div align="left">
 
@@ -50,16 +51,16 @@ I enjoy combining creativity with technology to build innovative and practical s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express.js" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="FastAPI" />
@@ -78,15 +79,6 @@ I enjoy combining creativity with technology to build innovative and practical s
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="Canva" />
 
 </div>
 

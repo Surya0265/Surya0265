@@ -1,90 +1,125 @@
-<h2 align="left">Hi 👋! I'm Suryaprakash B</h2>
+<div align="center">
 
-<h3 align="left">
+<h1>Hi, I'm Suryaprakash B</h1>
+
+<h3>Software Developer | Full Stack Developer | AI & ML Enthusiast</h3>
+
+<p>
 Final-year B.E. Computer Science and Engineering (AI & ML) student at PSG College of Technology.
-</h3>
+</p>
 
-<p align="left">
-I am interested in Software Development, Problem Solving, Machine Learning, and Deep Learning.
-<br><br>
+<p>
 I enjoy building scalable applications and intelligent systems that solve practical problems.
 </p>
 
-###
+</div>
 
-<h3 align="left">GitHub Stats</h3>
+---
+
+## About Me
+
+- Interested in **Software Development, Full Stack Development, and Artificial Intelligence**.
+- Strong foundation in **Data Structures & Algorithms, OOP, Operating Systems, and DBMS**.
+- Experienced in building **full-stack applications, REST APIs, microservice-based systems, and AI-powered applications**.
+- Currently exploring **Edge AI, Small Language Models, RAG systems, and on-device AI inference**.
+- Hackathon winner with experience in **leadership, teamwork, public speaking, and technical communities**.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+
+</div>
+
+### Frameworks & Libraries
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+
+</div>
+
+### Databases & Tools
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+
+</div>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
   <img
     src="https://raw.githubusercontent.com/Surya0265/Surya0265/stats-output/stats.svg"
-    height="150"
-    alt="Suryaprakash GitHub stats"
+    height="165"
+    alt="Suryaprakash GitHub Stats"
   />
 
   <img
     src="https://raw.githubusercontent.com/Surya0265/Surya0265/languages-output/languages.svg"
-    height="150"
-    alt="Suryaprakash top languages"
+    height="165"
+    alt="Suryaprakash Top Languages"
   />
 
 </div>
 
-###
+---
 
-<h3 align="left">Tech Stack</h3>
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="FastAPI" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="Laravel" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-
-</div>
-
-###
-
-<h3 align="left">Connect with Me</h3>
+## Connect with Me
 
 <div align="left">
 
@@ -106,13 +141,25 @@ I enjoy building scalable applications and intelligent systems that solve practi
 
 </div>
 
-###
+---
 
-<h3 align="left">Contribution Snake</h3>
+## Contribution Snake
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Surya0265/Surya0265/snake-output/snake.svg"
-    alt="Snake animation"
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Surya0265/Surya0265/output/github-contribution-grid-snake-dark.svg"
   />
-</p>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Surya0265/Surya0265/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Surya0265/Surya0265/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>

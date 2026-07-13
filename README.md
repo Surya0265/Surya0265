@@ -14,7 +14,6 @@ I enjoy building scalable applications and intelligent systems that solve practi
 
 </div>
 
----
 
 ## About Me
 

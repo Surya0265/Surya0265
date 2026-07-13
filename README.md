@@ -23,7 +23,7 @@ I enjoy building scalable applications and intelligent systems that solve practi
 - Currently exploring **Edge AI, Small Language Models, RAG systems, and on-device AI inference**.
 - Hackathon winner with experience in **leadership, teamwork, public speaking, and technical communities**.
 
----
+
 
 ## Tech Stack
 
@@ -96,7 +96,6 @@ I enjoy building scalable applications and intelligent systems that solve practi
 
 </div>
 
----
 
 ## GitHub Stats
 
@@ -140,9 +139,7 @@ I enjoy building scalable applications and intelligent systems that solve practi
 
 </div>
 
----
-
-## Contribution Snake
+## Contributions
 
 <div align="center">
 
